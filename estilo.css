@@ -14,8 +14,7 @@ body {
 }
 
 .header-title {
-    flex-grow: 1; /* Permite que o título ocupe o espaço restante */
-    /* Adicione esta linha para centralizar o texto dentro do div */
+   
     text-align: center;
 }
 
